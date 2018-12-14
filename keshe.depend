@@ -1,0 +1,458 @@
+# depslib dependency file v1.0
+1495645790 source:c:\pro\keshe\db_operation.c
+	<stdio.h>
+	"db_operation.h"
+	<string.h>
+	<io.h>
+	<stdlib.h>
+
+1495633152 c:\pro\keshe\db_operation.h
+	<stdio.h>
+
+1495647051 source:c:\pro\keshe\teaching_task.c
+	<stdio.h>
+	"teaching_task.h"
+	"db_operation.h"
+	<stdlib.h>
+	<string.h>
+	<io.h>
+
+1495646577 c:\pro\keshe\teaching_task.h
+
+1495163436 source:c:\pro\keshe\test.c
+
+1495621650 source:c:\pro\keshe\main.c
+	"db_operation.h"
+	"mark.h"
+	"teaching_task.h"
+	<stdio.h>
+	<string.h>
+	"administrator.h"
+	"login.h"
+	<stdlib.h>
+	<io.h>
+	<windows.h>
+
+1495634768 c:\pro\keshe\mark.h
+
+1495610168 source:c:\pro\keshe\mark.c
+	<stdio.h>
+	"mark.h"
+	"db_operation.h"
+	<stdlib.h>
+	<string.h>
+	<io.h>
+
+1495626483 c:\pro\keshe\administrator.h
+
+1495646937 source:c:\pro\keshe\administrator.c
+	"db_operation.h"
+	"mark.h"
+	"teaching_task.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"administrator.h"
+
+1495622143 source:c:\pro\keshe\student.c
+	"student.h"
+	<stdio.h>
+	<string.h>
+	"db_operation.h"
+	"mark.h"
+	<stdlib.h>
+
+1495626857 c:\pro\keshe\student.h
+
+1495640722 source:c:\pro\keshe\teacher.c
+	<stdio.h>
+	"teacher.h"
+	"mark.h"
+	"db_operation.h"
+	<stdlib.h>
+	<string.h>
+	"teaching_task.h"
+
+1495626886 c:\pro\keshe\teacher.h
+
+1495621381 source:c:\pro\keshe\login.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"db_operation.h"
+	"login.h"
+	"interface.h"
+
+1495626682 c:\pro\keshe\login.h
+
+1495644441 source:c:\pro\keshe\interface.c
+	"interface.h"
+	"student.h"
+	"teacher.h"
+	"administrator.h"
+	<stdio.h>
+	<windows.h>
+	"counsellor.h"
+
+1495626629 c:\pro\keshe\interface.h
+
+1495645534 source:c:\pro\keshe\counsellor.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"mark.h"
+	"db_operation.h"
+	<windows.h>
+	"counsellor.h"
+
+1495626510 c:\pro\keshe\counsellor.h
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"mark.h"
+	"db_operation.h"
+
+1495595880 source:c:\pro\复件 keshe\administrator.c
+	"db_operation.h"
+	"mark.h"
+	"teaching_task.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1495561096 c:\pro\复件 keshe\db_operation.h
+	<stdio.h>
+
+1495553471 c:\pro\复件 keshe\mark.h
+
+1495589482 c:\pro\复件 keshe\teaching_task.h
+
+1495602925 source:c:\pro\复件 keshe\db_operation.c
+	<stdio.h>
+	"db_operation.h"
+	<string.h>
+	<io.h>
+	<stdlib.h>
+
+1495610826 source:c:\pro\复件 keshe\interface.c
+	"interface.h"
+	"student.h"
+	"teacher.h"
+	"administrator.h"
+	<stdio.h>
+	<windows.h>
+	"counsellor.h"
+
+1495517611 c:\pro\复件 keshe\interface.h
+
+1495510407 c:\pro\复件 keshe\student.h
+
+1495587883 c:\pro\复件 keshe\teacher.h
+
+1495559050 c:\pro\复件 keshe\administrator.h
+
+1495607231 c:\pro\复件 keshe\counsellor.h
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"mark.h"
+	"db_operation.h"
+
+1495597810 source:c:\pro\复件 keshe\login.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"db_operation.h"
+	"login.h"
+	"interface.h"
+
+1495516785 c:\pro\复件 keshe\login.h
+
+1495597828 source:c:\pro\复件 keshe\main.c
+	"db_operation.h"
+	"mark.h"
+	"teaching_task.h"
+	<stdio.h>
+	<string.h>
+	"administrator.h"
+	"login.h"
+	<stdlib.h>
+	<io.h>
+	<windows.h>
+
+1495610168 source:c:\pro\复件 keshe\mark.c
+	<stdio.h>
+	"mark.h"
+	"db_operation.h"
+	<stdlib.h>
+	<string.h>
+	<io.h>
+
+1495615872 source:c:\pro\复件 keshe\student.c
+	"student.h"
+	<stdio.h>
+	<string.h>
+	"db_operation.h"
+	"mark.h"
+	<stdlib.h>
+
+1495608979 source:c:\pro\复件 keshe\teacher.c
+	<stdio.h>
+	"teacher.h"
+	"mark.h"
+	"db_operation.h"
+	<stdlib.h>
+	<string.h>
+	"teaching_task.h"
+
+1495610206 source:c:\pro\复件 keshe\teaching_task.c
+	<stdio.h>
+	"teaching_task.h"
+	"db_operation.h"
+	<stdlib.h>
+	<string.h>
+	<io.h>
+
+1495163436 source:c:\pro\复件 keshe\test.c
+
+1495673120 source:c:\users\dell\desktop\keshe\counsellor.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"mark.h"
+	"db_operation.h"
+	<windows.h>
+	"counsellor.h"
+
+1495634768 c:\users\dell\desktop\keshe\mark.h
+
+1495633152 c:\users\dell\desktop\keshe\db_operation.h
+	<stdio.h>
+
+1495626510 c:\users\dell\desktop\keshe\counsellor.h
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"mark.h"
+	"db_operation.h"
+
+1495645790 source:c:\users\dell\desktop\keshe\db_operation.c
+	<stdio.h>
+	"db_operation.h"
+	<string.h>
+	<io.h>
+	<stdlib.h>
+
+1495673699 source:c:\users\dell\desktop\keshe\interface.c
+	"interface.h"
+	"student.h"
+	"teacher.h"
+	"administrator.h"
+	<stdio.h>
+	<windows.h>
+	"counsellor.h"
+
+1495626629 c:\users\dell\desktop\keshe\interface.h
+
+1495626857 c:\users\dell\desktop\keshe\student.h
+
+1495626886 c:\users\dell\desktop\keshe\teacher.h
+
+1495626483 c:\users\dell\desktop\keshe\administrator.h
+
+1495621650 source:c:\users\dell\desktop\keshe\main.c
+	"db_operation.h"
+	"mark.h"
+	"teaching_task.h"
+	<stdio.h>
+	<string.h>
+	"administrator.h"
+	"login.h"
+	<stdlib.h>
+	<io.h>
+	<windows.h>
+
+1495646577 c:\users\dell\desktop\keshe\teaching_task.h
+
+1495626682 c:\users\dell\desktop\keshe\login.h
+
+1495610168 source:c:\users\dell\desktop\keshe\mark.c
+	<stdio.h>
+	"mark.h"
+	"db_operation.h"
+	<stdlib.h>
+	<string.h>
+	<io.h>
+
+1495674857 source:c:\users\dell\desktop\keshe\student.c
+	"student.h"
+	<stdio.h>
+	<string.h>
+	"db_operation.h"
+	"mark.h"
+	<stdlib.h>
+
+1495675299 source:c:\users\dell\desktop\keshe\teacher.c
+	<stdio.h>
+	"teacher.h"
+	"mark.h"
+	"db_operation.h"
+	<stdlib.h>
+	<string.h>
+	"teaching_task.h"
+
+1495647051 source:c:\users\dell\desktop\keshe\teaching_task.c
+	<stdio.h>
+	"teaching_task.h"
+	"db_operation.h"
+	<stdlib.h>
+	<string.h>
+	<io.h>
+
+1495163436 source:c:\users\dell\desktop\keshe\test.c
+
+1495652710 source:c:\users\dell\desktop\keshe\login.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"db_operation.h"
+	"login.h"
+	"interface.h"
+
+1495672389 source:c:\users\dell\desktop\keshe\administrator.c
+	"db_operation.h"
+	"mark.h"
+	"teaching_task.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"administrator.h"
+
+1495678853 source:c:\pro\keshe既定版\administrator.c
+	"db_operation.h"
+	"mark.h"
+	"teaching_task.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"administrator.h"
+
+1495633152 c:\pro\keshe既定版\db_operation.h
+	<stdio.h>
+
+1495634768 c:\pro\keshe既定版\mark.h
+
+1495646577 c:\pro\keshe既定版\teaching_task.h
+
+1495626483 c:\pro\keshe既定版\administrator.h
+
+1495673120 source:c:\pro\keshe既定版\counsellor.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"mark.h"
+	"db_operation.h"
+	<windows.h>
+	"counsellor.h"
+
+1495678853 c:\pro\keshe既定版\counsellor.h
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"mark.h"
+	"db_operation.h"
+
+1495645790 source:c:\pro\keshe既定版\db_operation.c
+	<stdio.h>
+	"db_operation.h"
+	<string.h>
+	<io.h>
+	<stdlib.h>
+
+1495673699 source:c:\pro\keshe既定版\interface.c
+	"interface.h"
+	"student.h"
+	"teacher.h"
+	"administrator.h"
+	<stdio.h>
+	<windows.h>
+	"counsellor.h"
+
+1495626629 c:\pro\keshe既定版\interface.h
+
+1495626857 c:\pro\keshe既定版\student.h
+
+1495626886 c:\pro\keshe既定版\teacher.h
+
+1495652710 source:c:\pro\keshe既定版\login.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"db_operation.h"
+	"login.h"
+	"interface.h"
+
+1495626682 c:\pro\keshe既定版\login.h
+
+1495621650 source:c:\pro\keshe既定版\main.c
+	"db_operation.h"
+	"mark.h"
+	"teaching_task.h"
+	<stdio.h>
+	<string.h>
+	"administrator.h"
+	"login.h"
+	<stdlib.h>
+	<io.h>
+	<windows.h>
+
+1495610168 source:c:\pro\keshe既定版\mark.c
+	<stdio.h>
+	"mark.h"
+	"db_operation.h"
+	<stdlib.h>
+	<string.h>
+	<io.h>
+
+1495675430 source:c:\pro\keshe既定版\student.c
+	"student.h"
+	<stdio.h>
+	<string.h>
+	"db_operation.h"
+	"mark.h"
+	<stdlib.h>
+
+1495677186 source:c:\pro\keshe既定版\teacher.c
+	<stdio.h>
+	"teacher.h"
+	"mark.h"
+	"db_operation.h"
+	<stdlib.h>
+	<string.h>
+	"teaching_task.h"
+
+1495647051 source:c:\pro\keshe既定版\teaching_task.c
+	<stdio.h>
+	"teaching_task.h"
+	"db_operation.h"
+	<stdlib.h>
+	<string.h>
+	<io.h>
+
+1495163436 source:c:\pro\keshe既定版\test.c
+
